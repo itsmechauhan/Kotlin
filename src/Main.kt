@@ -1,8 +1,7 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-fun main() {
-    val name = "Kotlin"
-    println("helllo"+name)
-    val newname="himanshu chauhan "
-    println("\n hello mr. $newname")
-        }
+fun main(){
+    println("Hello world")
+    val a=40
+
+    println("this is mine world\n$a "+(1+2))
+
+}

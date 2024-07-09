@@ -28,5 +28,14 @@ fun main(){
 //    for(i in 1..10)println("$n X $i = ${n*i}")
 
 
+////wap to repeat 1 to 20 then calc its sum
+//    var sum=0
+//    for(i in 1..20)sum+=i
+//    println("Sum : $sum")
+//
+
+
+
+
 
 }
